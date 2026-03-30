@@ -1,0 +1,10 @@
+clicks3
+clicks3-*
+*.exe
+report.json
+*.out
+.DS_Store
+report-*.json
+results-*/
+*.pem
+/tmp/
